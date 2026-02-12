@@ -6,8 +6,8 @@
     sg_id: sg-0707ca13336ec1a61
     zone_id: Z03009212LOQ4VPB2FLS3
     domain_name: "devopslearn.shop"
-    instances:
-    - mongodb
+    # instances:
+    # - mongodb
     # - redis
     # - mysql
     # - rabbitmq
