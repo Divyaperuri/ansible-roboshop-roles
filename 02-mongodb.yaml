@@ -1,0 +1,9 @@
+- name: setup mogodb
+  hosts: mongodb
+  become: yes
+  roles:
+  - mongodb
+
+
+  
+
